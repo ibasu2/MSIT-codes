@@ -1,0 +1,10 @@
+Pacman humanECoG/data/
+Bandit/clinicTasksRBE/hBandit/data/
+*.asv
+*.mat
+CrossTaskFunctions/__pycache__/
+CrossTaskFunctions/PythonTTL/__pycache__/
+multiTaskStudies/tmdStudy_randomizedTaskOrders.xlsx
+miniTasks/multiTaskStudies/tmdStudy_randomizedTaskOrders.xlsx
+*.xlsx
+*.png
